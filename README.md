@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
-💻 Tech Stacks 💻
+#💻 Tech Stacks 💻
  
 ![image](https://github.com/oocheol/oocheol/assets/86232509/44aa92a8-7b5b-4714-b565-9204dc24064e) 
 ![image](https://github.com/oocheol/oocheol/assets/86232509/3efba1be-f31f-4e10-8d69-0b311272d0ba) ![image](https://github.com/oocheol/oocheol/assets/86232509/0e6dc8f4-0772-4acd-8f5a-c3a93949de9b) ![image](https://github.com/oocheol/oocheol/assets/86232509/5763d7ce-4408-4d49-a020-92291d8e4804) ![image](https://github.com/oocheol/oocheol/assets/86232509/eab649ba-75e5-49be-99b5-66dab375f43e)
