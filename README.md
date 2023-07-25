@@ -21,9 +21,7 @@
 ![image](https://github.com/oocheol/oocheol/assets/86232509/f6f397f4-f703-453f-a53a-0eb9b39202c9) ![image](https://github.com/oocheol/oocheol/assets/86232509/8cdfb0aa-9f42-45cb-98a7-284c0ecc004d) ![image](https://github.com/oocheol/oocheol/assets/86232509/e2d5ef41-a580-4f56-9faa-b1484c3c3613) ![image](https://github.com/oocheol/oocheol/assets/86232509/620467e1-37c6-4a69-8950-7a9830177bc2)
 
 
-
-
-Here are some ideas to get you started:
+<div align="left">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -34,6 +32,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+</div>
 <a href = "https://github.com/oocheol"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a> <a href = "https://oocheol.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-orange.svg?&style=for-the-badge"/></a>
 </a> <a href = "https://instagram.com/oocheol"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
