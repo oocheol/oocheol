@@ -1,4 +1,4 @@
-[![oocheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=oocheol)](https://github.com/oocheol/github-readme-stats)
+[![oocheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=oocheol&count_private=true)](https://github.com/oocheol/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
