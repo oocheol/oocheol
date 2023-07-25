@@ -8,7 +8,7 @@
 ![image](https://github.com/oocheol/oocheol/assets/86232509/44aa92a8-7b5b-4714-b565-9204dc24064e) 
 ![image](https://github.com/oocheol/oocheol/assets/86232509/3efba1be-f31f-4e10-8d69-0b311272d0ba) ![image](https://github.com/oocheol/oocheol/assets/86232509/0e6dc8f4-0772-4acd-8f5a-c3a93949de9b) ![image](https://github.com/oocheol/oocheol/assets/86232509/b2194356-311f-4804-ac16-5b7ecba5a78a) 
 
-![image](https://github.com/oocheol/oocheol/assets/86232509/88f4cf1e-ac12-4b59-aa56-885512c02410) ![image](https://github.com/oocheol/oocheol/assets/86232509/426cf214-b3aa-45f5-a8fa-a2b0751516b2) ![image](https://github.com/oocheol/oocheol/assets/86232509/3b3eaa13-8608-48b5-a5d3-cf5f81d2a9df)
+![image](https://github.com/oocheol/oocheol/assets/86232509/88f4cf1e-ac12-4b59-aa56-885512c02410) ![image](https://github.com/oocheol/oocheol/assets/86232509/426cf214-b3aa-45f5-a8fa-a2b0751516b2)
 
 ![image](https://github.com/oocheol/oocheol/assets/86232509/5763d7ce-4408-4d49-a020-92291d8e4804) ![image](https://github.com/oocheol/oocheol/assets/86232509/eab649ba-75e5-49be-99b5-66dab375f43e)
 
