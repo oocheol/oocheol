@@ -1,4 +1,4 @@
-[![oocheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=oocheol&count_private=true&show_icons=true&theme=darkl)](https://github.com/oocheol/github-readme-stats)
+[![oocheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=oocheol&count_private=true&show_icons=true&theme=dark)](https://github.com/oocheol/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oocheol&layout=compact&theme=dark)](https://github.com/oocheol/github-readme-stats)
 
