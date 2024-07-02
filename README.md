@@ -35,7 +35,6 @@
 </div>
 <a href = "https://github.com/oocheol"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a> <a href = "https://oocheol.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-orange.svg?&style=for-the-badge"/></a>
-</a> <img alt="Gmail" src 
-="https://img.shields.io/badge/oocheol@naver.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+<img alt="Gmail" src="https://img.shields.io/badge/oocheol@naver.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 
 </div>
