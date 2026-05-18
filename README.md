@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm Oocheol Jeong
-
 ### Backend Developer | Java • Spring Boot • Scalable Architecture  
 안정적이고 확장 가능한 서버 시스템을 구축하며,  
 효율적인 구조 설계와 성능 최적화를 지향하는 개발자입니다.
@@ -64,7 +62,7 @@
 <a href="https://github.com/oocheol">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a>
-<a href="https://instagram.com/oocheol">
+<a href="https://instagram.com/moou_film">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 <a href="https://oocheol.tistory.com/">
