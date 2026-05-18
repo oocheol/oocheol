@@ -2,14 +2,15 @@
 
 # 👋 Hi, I'm Oocheol Jeong
 
-### Backend Developer | Java • Spring Boot • API Architecture  
-확장성과 안정성을 고려한 백엔드 시스템을 설계하고,  
-견고한 서비스 구조를 만드는 개발자입니다.
+### Backend Developer | Java • Spring Boot • Scalable Architecture  
+안정적이고 확장 가능한 서버 시스템을 구축하며,  
+효율적인 구조 설계와 성능 최적화를 지향하는 개발자입니다.
 
 <br />
 
-[![oocheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=oocheol&count_private=true&show_icons=true&theme=github_dark)](https://github.com/oocheol)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oocheol&layout=compact&theme=github_dark&count_private=true)](https://github.com/oocheol)
+## 🧩 Core Values
+
+### Robust Architecture • Performance Optimization • Clean Code
 
 ---
 
@@ -32,7 +33,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Collaboration / Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -41,20 +42,20 @@
 
 ## 🛠️ Engineering Focus
 
-✔️ RESTful API 설계 및 서버 구조 최적화  
-✔️ 인증/인가 시스템 구축 및 보안 강화  
-✔️ 대용량 데이터 처리 및 DB 성능 개선  
-✔️ 유지보수성과 확장성을 고려한 아키텍처 설계  
-✔️ 운영 환경 배포 및 서버 관리
+✔️ RESTful API 설계 및 서비스 구조화  
+✔️ 인증 / 인가 및 보안 아키텍처 구축  
+✔️ 데이터베이스 설계 및 쿼리 최적화  
+✔️ 서버 성능 개선 및 운영 안정성 강화  
+✔️ 유지보수성과 확장성을 고려한 클린 코드
 
 ---
 
 ## 📌 About Me
 
-🔭 안정적이고 효율적인 백엔드 서비스 구축에 집중하고 있습니다.  
-🌱 시스템 설계, 성능 최적화, 클린 아키텍처를 지속적으로 연구합니다.  
-💬 Java, Spring Boot, DB 설계, 서버 구조 개선에 관심이 많습니다.  
-⚡ "직관적이고 견고한 코드"를 추구합니다.
+🔭 Java & Spring Boot 기반 백엔드 서비스 개발  
+🌱 시스템 설계, 대용량 처리, 성능 최적화 지속 학습  
+💬 API Architecture / Database Design / Server Engineering  
+⚡ "간결하지만 강한 구조"를 추구합니다.
 
 ---
 
@@ -73,6 +74,6 @@
 
 ---
 
-### 🚀 “Design robust systems. Build scalable services.”
+### 🚀 “Build stable systems. Design scalable futures.”
 
 </div>
