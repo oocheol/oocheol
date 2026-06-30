@@ -1,4 +1,14 @@
 <div align="center">
+  <a href="https://commit-history.com/oocheol">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/oocheol?theme=dark" />
+      <img alt="oocheol's commit history" src="https://commit-history.com/embed/oocheol" />
+    </picture>
+  </a>
+</div>
+
+
+<div align="center">
 
 ### Backend Developer | Java • Spring Boot • Scalable Architecture  
 안정적이고 확장 가능한 서버 시스템을 구축하며,  
